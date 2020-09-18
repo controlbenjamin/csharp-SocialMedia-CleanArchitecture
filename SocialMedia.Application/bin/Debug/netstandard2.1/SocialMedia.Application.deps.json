@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "SocialMedia.Application/1.0.0": {
+        "dependencies": {
+          "SocialMedia.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SocialMedia.Application.dll": {}
+        }
+      },
+      "SocialMedia.Domain/1.0.0": {
+        "runtime": {
+          "SocialMedia.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocialMedia.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocialMedia.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\bin\Debug\netstandard2.1\SocialMedia.Application.deps.json
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\bin\Debug\netstandard2.1\SocialMedia.Application.dll
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\bin\Debug\netstandard2.1\SocialMedia.Application.pdb
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\bin\Debug\netstandard2.1\SocialMedia.Domain.dll
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\bin\Debug\netstandard2.1\SocialMedia.Domain.pdb
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\obj\Debug\netstandard2.1\SocialMedia.Application.csprojAssemblyReference.cache
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\obj\Debug\netstandard2.1\SocialMedia.Application.AssemblyInfoInputs.cache
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\obj\Debug\netstandard2.1\SocialMedia.Application.AssemblyInfo.cs
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\obj\Debug\netstandard2.1\SocialMedia.Application.csproj.CoreCompileInputs.cache
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\obj\Debug\netstandard2.1\SocialMedia.Application.csproj.CopyComplete
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\obj\Debug\netstandard2.1\SocialMedia.Application.dll
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Application\obj\Debug\netstandard2.1\SocialMedia.Application.pdb

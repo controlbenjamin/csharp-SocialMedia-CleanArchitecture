@@ -1,0 +1,14 @@
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.deps.json
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Application.dll
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Domain.dll
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Application.pdb
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Domain.pdb
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csprojAssemblyReference.cache
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfo.cs
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CopyComplete
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
