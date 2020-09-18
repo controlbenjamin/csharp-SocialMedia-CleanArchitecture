@@ -10,6 +10,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using SocialMedia.Application.Common.Interfaces;
+using SocialMedia.Infrastructure.Repositories;
 
 namespace SocialMedia.WebUI
 {
@@ -26,6 +28,8 @@ namespace SocialMedia.WebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddTransient<IPostRepository, PostRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
