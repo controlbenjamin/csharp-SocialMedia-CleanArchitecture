@@ -22,18 +22,20 @@ namespace SocialMedia.WebUI.Controllers
         }
 
 
-        //public async Task<IActionResult> GetPosts()
-        //{
-        //    var posts = await _postRepository.GetPosts();
-
-        //    return Ok(posts);
-        //}
-
         [HttpGet]
-        public async Task<IEnumerable<Post>> Get() {
+        public async Task<IEnumerable<Post>> GetAll()
+        {
 
 
             return await _postRepository.GetPosts();
+
+        }
+
+        [HttpGet("{id}")]
+        public async Task<Post> Get(int id)
+        {
+
+            return await _postRepository.GetPost(id);
 
         }
     }

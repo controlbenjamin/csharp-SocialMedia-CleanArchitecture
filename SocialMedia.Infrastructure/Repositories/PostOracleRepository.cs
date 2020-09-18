@@ -10,6 +10,11 @@ namespace SocialMedia.Infrastructure.Repositories
 {
     public class PostOracleRepository : IPostRepository
     {
+        public Task<Post> GetPost(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<IEnumerable<Post>> GetPosts()
         {
             var posts = Enumerable.Range(1, 99).Select(x => new Post
