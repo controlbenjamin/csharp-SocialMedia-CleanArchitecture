@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using SocialMedia.Application.Common.Interfaces;
+using SocialMedia.Infrastructure.Data;
 using SocialMedia.Infrastructure.Repositories;
 
 namespace SocialMedia.WebUI
@@ -28,6 +30,11 @@ namespace SocialMedia.WebUI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+
+            services.AddDbContext<SocialMediaContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("SocialMedia"));
+            });
 
             services.AddTransient<IPostRepository, PostRepository>();
         }
