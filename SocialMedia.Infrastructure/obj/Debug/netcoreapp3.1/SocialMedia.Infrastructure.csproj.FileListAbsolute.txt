@@ -8,7 +8,10 @@ D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csprojAssemblyReference.cache
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfoInputs.cache
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.AssemblyInfo.cs
-D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CopyComplete
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.dll
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.pdb
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.runtimeconfig.json
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\SocialMedia.Infrastructure.runtimeconfig.dev.json
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.genruntimeconfig.cache
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
