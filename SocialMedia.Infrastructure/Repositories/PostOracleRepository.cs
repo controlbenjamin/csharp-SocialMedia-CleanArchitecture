@@ -10,14 +10,14 @@ namespace SocialMedia.Infrastructure.Repositories
 {
     public class PostOracleRepository : IPostRepository
     {
-        public async Task<IEnumerable<Publicacion>> GetPosts()
+        public async Task<IEnumerable<Post>> GetPosts()
         {
-            var posts = Enumerable.Range(1, 99).Select(x => new Publicacion
+            var posts = Enumerable.Range(1, 99).Select(x => new Post
             {
-              IdPublicacion = x,
-              IdUsuario = x * 3,
-              Fecha = DateTime.Now,
-              Descripcion = "Oracle Descripcion" + x.ToString()
+              PostId = x,
+              UserId = x * 3,
+              Date = DateTime.Now,
+              Description = "Oracle Description" + x.ToString()
             });
 
             await Task.Delay(1500);

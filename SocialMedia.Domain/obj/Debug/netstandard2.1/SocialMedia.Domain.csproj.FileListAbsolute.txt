@@ -6,3 +6,4 @@ D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Domain\obj\Debug\netstandard2.1\Soci
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Domain\obj\Debug\netstandard2.1\SocialMedia.Domain.csproj.CoreCompileInputs.cache
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Domain\obj\Debug\netstandard2.1\SocialMedia.Domain.dll
 D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Domain\obj\Debug\netstandard2.1\SocialMedia.Domain.pdb
+D:\_DotNet\_Pruebas\SocialMedia\SocialMedia.Domain\obj\Debug\netstandard2.1\SocialMedia.Domain.csprojAssemblyReference.cache

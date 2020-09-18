@@ -30,7 +30,7 @@ namespace SocialMedia.WebUI.Controllers
         //}
 
         [HttpGet]
-        public async Task<IEnumerable<Publicacion>> Get() {
+        public async Task<IEnumerable<Post>> Get() {
 
 
             return await _postRepository.GetPosts();
